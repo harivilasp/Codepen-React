@@ -4,7 +4,7 @@ Live Demo: [https://quirky-mirzakhani-12bdf3.netlify.app/](https://quirky-mirzak
 
 ## Overview
 
-**Codepen-React** is a lightweight in-browser code playground inspired by CodePen. It allows users to write and preview HTML, CSS, and JavaScript code in real time using React and modern web technologies.
+**LiveCodeLab** is a lightweight in-browser code playground inspired by CodePen. It allows users to write and preview HTML, CSS, and JavaScript code in real time using React and modern web technologies.
 
 ![Screenshot](./screenshot.png)
 
