@@ -1,4 +1,4 @@
-# Codepen-React 🖥️⚛️
+# LiveCodeLab 🖥️⚛️
 
 Live Demo: [https://quirky-mirzakhani-12bdf3.netlify.app/](https://quirky-mirzakhani-12bdf3.netlify.app/)
 
